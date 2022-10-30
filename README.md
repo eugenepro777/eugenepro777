@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+My name is eugene, at the moment I am studying at the developer course on the GeekBrains platform. See you!
 <!--
 **eugenepro777/eugenepro777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
