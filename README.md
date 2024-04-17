@@ -1,6 +1,7 @@
 ### Hi there 👋
 ## My name is Eugene, I graduated from the Python developer course on the GeekBrains platform (specialization - web development).
-## I am currently looking for an interesting project where my knowledge and experience would be useful.
+I'm currently looking for an interesting project where my knowledge and experience would be useful.
+## 
 <!--
 **eugenepro777/eugenepro777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
